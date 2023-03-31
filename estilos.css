@@ -1,0 +1,51 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -10px;
+}
+.col{
+    width: 100%;
+}
+.col2{
+    width: 33,33%;
+}
+#imagenc{
+    max-width: 100%;
+    width: 100%;
+    height: 100%;
+    margin: 0% auto;
+}
+.texto1{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(0, 0, 0);
+    font-size: 4rem;
+    width: 65%;
+    text-align: center;
+}
+
+.Proyectos{
+    text-align: center;
+    font-size: 25%;
+}
+
+.imagengit{
+    width: 33.33%;
+    padding: 20px;
+}
+
+
+
+.fondoAzul{
+    background-color: rgb(129, 129, 129);
+}
+
+
+
+.textofooter{
+    font-weight: normal;
+    color: white;
+    font-size: 20px;
+}
